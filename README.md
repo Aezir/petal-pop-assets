@@ -22,4 +22,4 @@ python tools/make-manifest.py packs/default
 
 ## 许可
 
-素材为 AI 生成后整理，仅供 Petal Pop 及其素材包生态使用，暂不授权其它用途。
+[CC BY-NC-SA 4.0](LICENSE)：可以自由使用、修改、再分发，须署名，**严禁任何商业用途**，衍生素材必须以相同许可发布。

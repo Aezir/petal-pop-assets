@@ -2,9 +2,9 @@
   "formatVersion": 1,
   "id": "petalpop-default",
   "name": "花漾默认包",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "hydomo",
-  "license": "all-rights-reserved",
+  "license": "CC-BY-NC-SA-4.0",
   "description": "",
   "entries": [
     {
