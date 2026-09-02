@@ -1,0 +1,1143 @@
+{
+  "formatVersion": 1,
+  "id": "petalpop-default",
+  "name": "花漾默认包",
+  "version": "1.0.0",
+  "author": "hydomo",
+  "license": "all-rights-reserved",
+  "description": "",
+  "entries": [
+    {
+      "id": "asset-001",
+      "type": "sticker",
+      "file": "stickers/asset-001.png",
+      "sha256": "45a5e2c241bdd92ef243d3f6d703afd89e07f25725dab890a5dcaa988f167648",
+      "bytes": 28465,
+      "w": 188,
+      "h": 124
+    },
+    {
+      "id": "asset-002",
+      "type": "sticker",
+      "file": "stickers/asset-002.png",
+      "sha256": "28e8ce49d73bf5dbda0108bd2abf1d9a0e9fc5073ba11737fa2b0040f61e3f34",
+      "bytes": 11894,
+      "w": 85,
+      "h": 128
+    },
+    {
+      "id": "asset-003",
+      "type": "sticker",
+      "file": "stickers/asset-003.png",
+      "sha256": "9210b6d92ced6c54b95c63a30ab21e229db6d2bed4b9654f38da576ac206ae6c",
+      "bytes": 29744,
+      "w": 180,
+      "h": 130
+    },
+    {
+      "id": "asset-004",
+      "type": "sticker",
+      "file": "stickers/asset-004.png",
+      "sha256": "112227ccf149bcb0506066075b7f87cc9277bac54f96e4158f10c3e186f91437",
+      "bytes": 14809,
+      "w": 88,
+      "h": 107
+    },
+    {
+      "id": "asset-005",
+      "type": "sticker",
+      "file": "stickers/asset-005.png",
+      "sha256": "ef94b4c07fe717d45494acdc7f3f7b214a1eb21f0291bee1ff55a100b775cb23",
+      "bytes": 30218,
+      "w": 171,
+      "h": 139
+    },
+    {
+      "id": "asset-006",
+      "type": "sticker",
+      "file": "stickers/asset-006.png",
+      "sha256": "ba373793f7df17172f78caa25629ef9ffe7721f81bf0f4e60071b79a037360b8",
+      "bytes": 17844,
+      "w": 122,
+      "h": 95
+    },
+    {
+      "id": "asset-007",
+      "type": "sticker",
+      "file": "stickers/asset-007.png",
+      "sha256": "ac42e4d1cb89e9b05e182b0811c8224da2f231f4d967fa85da00562d3d0c56d1",
+      "bytes": 39611,
+      "w": 198,
+      "h": 155
+    },
+    {
+      "id": "asset-008",
+      "type": "sticker",
+      "file": "stickers/asset-008.png",
+      "sha256": "05cad6cddb6d4fe9f2f27977e4ad19ac2b8c2735c7d7db38c763d3ae0926fec6",
+      "bytes": 7442,
+      "w": 75,
+      "h": 62
+    },
+    {
+      "id": "asset-009",
+      "type": "sticker",
+      "file": "stickers/asset-009.png",
+      "sha256": "d74ac14b1d0d3ca693e95a9e004dcb5b237b69e61aad63683addcddbc22b3909",
+      "bytes": 19728,
+      "w": 116,
+      "h": 128
+    },
+    {
+      "id": "asset-010",
+      "type": "sticker",
+      "file": "stickers/asset-010.png",
+      "sha256": "e199fda0f34dac473945e9891ae020871a89fdee10a49eee53b49c850e94602c",
+      "bytes": 8000,
+      "w": 85,
+      "h": 60
+    },
+    {
+      "id": "asset-011",
+      "type": "sticker",
+      "file": "stickers/asset-011.png",
+      "sha256": "dc2b2bc121273166fde823c39445f44405041e4187cc4f1ecb295942070a20a5",
+      "bytes": 133707,
+      "w": 254,
+      "h": 306
+    },
+    {
+      "id": "asset-012",
+      "type": "sticker",
+      "file": "stickers/asset-012.png",
+      "sha256": "543082c1508ae27b6fb1d9bf45e96fe26e3c3eb33b68e8deaf4923009f7535e1",
+      "bytes": 5946,
+      "w": 62,
+      "h": 68
+    },
+    {
+      "id": "asset-013",
+      "type": "sticker",
+      "file": "stickers/asset-013.png",
+      "sha256": "09abde37fa190742a926fe9e2d5352636629578fea018128f455be1b9be0d328",
+      "bytes": 23127,
+      "w": 153,
+      "h": 116
+    },
+    {
+      "id": "asset-014",
+      "type": "sticker",
+      "file": "stickers/asset-014.png",
+      "sha256": "04f93be289c65178a6d75c522a823ea5fb26177abc868fbd538beb8f34c4b3dc",
+      "bytes": 5624,
+      "w": 58,
+      "h": 64
+    },
+    {
+      "id": "asset-015",
+      "type": "sticker",
+      "file": "stickers/asset-015.png",
+      "sha256": "d8744e02ae8c3eafc80ea60f58cdca08995efe97419e2b740179db65d207b892",
+      "bytes": 7401,
+      "w": 56,
+      "h": 83
+    },
+    {
+      "id": "asset-016",
+      "type": "sticker",
+      "file": "stickers/asset-016.png",
+      "sha256": "5965c001bd1ca3ecf143d26c810ba4e2ce194372f6ca9e1d5af4d8bfac45b728",
+      "bytes": 11602,
+      "w": 97,
+      "h": 89
+    },
+    {
+      "id": "asset-017",
+      "type": "sticker",
+      "file": "stickers/asset-017.png",
+      "sha256": "5bd009a59f738dc76b13f518b379001b6bfed99c52ca694e69cae77d7b179f48",
+      "bytes": 14277,
+      "w": 88,
+      "h": 103
+    },
+    {
+      "id": "asset-018",
+      "type": "sticker",
+      "file": "stickers/asset-018.png",
+      "sha256": "198f0708345de47edf878d5dd3998de2812b62538790c466a2079e293720dc87",
+      "bytes": 54785,
+      "w": 172,
+      "h": 195
+    },
+    {
+      "id": "asset-019",
+      "type": "sticker",
+      "file": "stickers/asset-019.png",
+      "sha256": "38b8467216d55bcbf9b664bcd04727931ba7b503fbe83445c913f9db4c4cad87",
+      "bytes": 8605,
+      "w": 89,
+      "h": 66
+    },
+    {
+      "id": "asset-020",
+      "type": "sticker",
+      "file": "stickers/asset-020.png",
+      "sha256": "3b4ae6899521967cf14f3ca33514e10501f28ff0ea990061ec83bb495ffc2034",
+      "bytes": 72724,
+      "w": 176,
+      "h": 225
+    },
+    {
+      "id": "asset-021",
+      "type": "sticker",
+      "file": "stickers/asset-021.png",
+      "sha256": "9a9db2ffff6182a19b3f67be70790ac3297938a35c62b6d6ba9a904d867aa209",
+      "bytes": 32689,
+      "w": 208,
+      "h": 121
+    },
+    {
+      "id": "asset-022",
+      "type": "sticker",
+      "file": "stickers/asset-022.png",
+      "sha256": "423fcc408a6464b8e009647e659cd3dfa44297c63076398839d15adf4a23e6a6",
+      "bytes": 17436,
+      "w": 97,
+      "h": 131
+    },
+    {
+      "id": "asset-023",
+      "type": "sticker",
+      "file": "stickers/asset-023.png",
+      "sha256": "8e2d147e661486c5db53770c42dea8ebb874922f6d5076c3cefadd31db4ba2a5",
+      "bytes": 7438,
+      "w": 107,
+      "h": 46
+    },
+    {
+      "id": "asset-024",
+      "type": "sticker",
+      "file": "stickers/asset-024.png",
+      "sha256": "dcabee627102d2467542196380fb6c850640d4787638a9932b432c6e37d2b7b6",
+      "bytes": 60808,
+      "w": 190,
+      "h": 200
+    },
+    {
+      "id": "asset-025",
+      "type": "sticker",
+      "file": "stickers/asset-025.png",
+      "sha256": "fdd28c4101292921825b983c2f4a085c85ea7931c0801859da1b1177fc8347c6",
+      "bytes": 58193,
+      "w": 197,
+      "h": 182
+    },
+    {
+      "id": "asset-026",
+      "type": "sticker",
+      "file": "stickers/asset-026.png",
+      "sha256": "568db5e1854a7b598bd5a697795f7ec15dc284aead6135dc11ebab11be37d76b",
+      "bytes": 24124,
+      "w": 131,
+      "h": 138
+    },
+    {
+      "id": "asset-027",
+      "type": "sticker",
+      "file": "stickers/asset-027.png",
+      "sha256": "d17be706dafc440ee49393d72531310f16000bc8cec3a536dd1387294732895a",
+      "bytes": 6327,
+      "w": 64,
+      "h": 70
+    },
+    {
+      "id": "asset-028",
+      "type": "sticker",
+      "file": "stickers/asset-028.png",
+      "sha256": "4b0fa833002429ceedc7c8b689b9f8a7c21ef349a3b24134b877e424f3915820",
+      "bytes": 25767,
+      "w": 113,
+      "h": 141
+    },
+    {
+      "id": "asset-029",
+      "type": "sticker",
+      "file": "stickers/asset-029.png",
+      "sha256": "208292237b128e6f1adfbcb7e03a29e0a633e98218069f92d711ad2d68f33a26",
+      "bytes": 67786,
+      "w": 191,
+      "h": 221
+    },
+    {
+      "id": "asset-030",
+      "type": "sticker",
+      "file": "stickers/asset-030.png",
+      "sha256": "6b0d472ef33396218ad3bc45667a6e5119783336d0fb9b1be1df864a22553aff",
+      "bytes": 24085,
+      "w": 142,
+      "h": 110
+    },
+    {
+      "id": "asset-031",
+      "type": "sticker",
+      "file": "stickers/asset-031.png",
+      "sha256": "71156f4499568c86f5747a27d78106dea4b33098cb23edbb8cf3d909e96e3ffb",
+      "bytes": 16166,
+      "w": 145,
+      "h": 82
+    },
+    {
+      "id": "asset-032",
+      "type": "sticker",
+      "file": "stickers/asset-032.png",
+      "sha256": "4057650deea347149d4c80a90a69e0808110efdb53800a851ce2c31e60c5043f",
+      "bytes": 16590,
+      "w": 110,
+      "h": 108
+    },
+    {
+      "id": "asset-033",
+      "type": "sticker",
+      "file": "stickers/asset-033.png",
+      "sha256": "f5f2e3e31e6e6d72f67fa3315fa56118873639eb5453027dfc1fd7dc622f657f",
+      "bytes": 9989,
+      "w": 94,
+      "h": 66
+    },
+    {
+      "id": "asset-034",
+      "type": "sticker",
+      "file": "stickers/asset-034.png",
+      "sha256": "dddfb9e20c5faab3078658b09ca3cf7a1d4229f35eb5b49f2bb719023208635e",
+      "bytes": 8720,
+      "w": 75,
+      "h": 75
+    },
+    {
+      "id": "asset-035",
+      "type": "sticker",
+      "file": "stickers/asset-035.png",
+      "sha256": "9059902e70814c8fbc798f039fca1e4dcbaeee3fe14970fed6361648eb5b2288",
+      "bytes": 4732,
+      "w": 59,
+      "h": 57
+    },
+    {
+      "id": "asset-036",
+      "type": "sticker",
+      "file": "stickers/asset-036.png",
+      "sha256": "69a722fd0626d0e26bcfc799646be88302fa5dd06d02f5e065a7d3aff7b2cbde",
+      "bytes": 10446,
+      "w": 105,
+      "h": 65
+    },
+    {
+      "id": "asset-037",
+      "type": "sticker",
+      "file": "stickers/asset-037.png",
+      "sha256": "36e4bb095e709530f659cfd8470a923f28a48d75cd15c89f306b6ca56cba2c07",
+      "bytes": 8707,
+      "w": 95,
+      "h": 68
+    },
+    {
+      "id": "asset-038",
+      "type": "sticker",
+      "file": "stickers/asset-038.png",
+      "sha256": "5b80b392bfc27e948b2f1240007a1803048ecac153597600e3a4b7581cee4838",
+      "bytes": 15325,
+      "w": 115,
+      "h": 81
+    },
+    {
+      "id": "asset-039",
+      "type": "sticker",
+      "file": "stickers/asset-039.png",
+      "sha256": "1eacb580acc119fb728954ad059822885967b710ea966071ce6238dda6dd8a7c",
+      "bytes": 62892,
+      "w": 196,
+      "h": 205
+    },
+    {
+      "id": "asset-040",
+      "type": "sticker",
+      "file": "stickers/asset-040.png",
+      "sha256": "9d4ff5f3d6268520e9dea12c499bcbbe6f80dc72c5336da14025804963cb476f",
+      "bytes": 3739,
+      "w": 51,
+      "h": 52
+    },
+    {
+      "id": "asset-041",
+      "type": "sticker",
+      "file": "stickers/asset-041.png",
+      "sha256": "41f6b768315bd52c6e5cdf0534f15bb0c60578feac9c912f38d8530bed2f1546",
+      "bytes": 14750,
+      "w": 89,
+      "h": 94
+    },
+    {
+      "id": "asset-042",
+      "type": "sticker",
+      "file": "stickers/asset-042.png",
+      "sha256": "df796ec13c073c0dde7a1b757e85001a74bb2eb15aa4188c58b044f187a3bfad",
+      "bytes": 11206,
+      "w": 86,
+      "h": 108
+    },
+    {
+      "id": "asset-043",
+      "type": "sticker",
+      "file": "stickers/asset-043.png",
+      "sha256": "edabc48ff08162fbcff16d157afaf32aca77d5b553821a441a6b14e32d787364",
+      "bytes": 6429,
+      "w": 63,
+      "h": 67
+    },
+    {
+      "id": "asset-044",
+      "type": "sticker",
+      "file": "stickers/asset-044.png",
+      "sha256": "9170b7195893007a54382ce93eb57620a49221edc7eaefaf3ce82e96145d7ebc",
+      "bytes": 6982,
+      "w": 64,
+      "h": 71
+    },
+    {
+      "id": "asset-045",
+      "type": "sticker",
+      "file": "stickers/asset-045.png",
+      "sha256": "76a81cacc15fb30eced01d7991f32a9aea1ab939c09bfbbdf4d5916691fd142b",
+      "bytes": 4167,
+      "w": 52,
+      "h": 54
+    },
+    {
+      "id": "asset-046",
+      "type": "sticker",
+      "file": "stickers/asset-046.png",
+      "sha256": "f0f3b0fbdc189ffde28eb46a531cdaa619f88e565f8e09d3f2e7181df74f2e2e",
+      "bytes": 4160,
+      "w": 52,
+      "h": 54
+    },
+    {
+      "id": "asset-047",
+      "type": "sticker",
+      "file": "stickers/asset-047.png",
+      "sha256": "9aa974e82c9f15b43fd97dfd7f2080c4a49fa68d7fc2ccee18c18bee907345bb",
+      "bytes": 82523,
+      "w": 200,
+      "h": 465
+    },
+    {
+      "id": "asset-048",
+      "type": "sticker",
+      "file": "stickers/asset-048.png",
+      "sha256": "97255fc751170d698c77d68ee136753c2d248272175cb4823e03f6f7fd583629",
+      "bytes": 83206,
+      "w": 205,
+      "h": 465
+    },
+    {
+      "id": "asset-049",
+      "type": "sticker",
+      "file": "stickers/asset-049.png",
+      "sha256": "7873bd4240f976d059245b0736cb1de6fca4b7d1c334120ea98cb459efaae102",
+      "bytes": 86120,
+      "w": 209,
+      "h": 465
+    },
+    {
+      "id": "asset-050",
+      "type": "sticker",
+      "file": "stickers/asset-050.png",
+      "sha256": "4d3ddb3b2844348f4160d3dcc7233eade0fbeade61e68ad8534668df427faa17",
+      "bytes": 5366,
+      "w": 64,
+      "h": 61
+    },
+    {
+      "id": "asset-051",
+      "type": "sticker",
+      "file": "stickers/asset-051.png",
+      "sha256": "5bf01b8aba02245218817a6375d9a9eb02e7f6e03a4b58da3d09eea524e47e33",
+      "bytes": 84729,
+      "w": 254,
+      "h": 248
+    },
+    {
+      "id": "asset-052",
+      "type": "sticker",
+      "file": "stickers/asset-052.png",
+      "sha256": "edfa89e9c9e73e08f760d00a8f258d29fc55c1341fecc0a56616478d0281dad8",
+      "bytes": 14857,
+      "w": 66,
+      "h": 135
+    },
+    {
+      "id": "asset-053",
+      "type": "sticker",
+      "file": "stickers/asset-053.png",
+      "sha256": "1f236d8cfe7fd3b5f93cc9d3732b76ad4d087747d9e7c9014eb260c4310ea608",
+      "bytes": 14757,
+      "w": 66,
+      "h": 135
+    },
+    {
+      "id": "asset-054",
+      "type": "sticker",
+      "file": "stickers/asset-054.png",
+      "sha256": "380d5aa79276dad79cae12d8588dea4baec2bc3613a8643c187772dfd77c8e04",
+      "bytes": 9256,
+      "w": 74,
+      "h": 81
+    },
+    {
+      "id": "asset-055",
+      "type": "sticker",
+      "file": "stickers/asset-055.png",
+      "sha256": "df82d9b47005a458256c625fd32574904b316f125596e5349b169dcf2f59c56a",
+      "bytes": 17871,
+      "w": 109,
+      "h": 101
+    },
+    {
+      "id": "asset-056",
+      "type": "sticker",
+      "file": "stickers/asset-056.png",
+      "sha256": "b0d8bff4458eddfeab359531b4e34adb42401d07d80aa01f50c9eef4912ef2a4",
+      "bytes": 15621,
+      "w": 137,
+      "h": 74
+    },
+    {
+      "id": "asset-057",
+      "type": "sticker",
+      "file": "stickers/asset-057.png",
+      "sha256": "3ce8c7d56938368b553d3630267a1cd85b6b85f3e63417fd8dc04adc6eade01d",
+      "bytes": 15244,
+      "w": 89,
+      "h": 125
+    },
+    {
+      "id": "asset-058",
+      "type": "sticker",
+      "file": "stickers/asset-058.png",
+      "sha256": "cb17225fc4021d023662f1b8ae79fc3f602d77e44602de471a6aef74dee5145a",
+      "bytes": 10895,
+      "w": 84,
+      "h": 89
+    },
+    {
+      "id": "asset-059",
+      "type": "sticker",
+      "file": "stickers/asset-059.png",
+      "sha256": "8c64f91f711a2a82d27f988917ba788f1f7f8aa6f3ee0f6f18d479434085bb8a",
+      "bytes": 10724,
+      "w": 73,
+      "h": 109
+    },
+    {
+      "id": "asset-060",
+      "type": "sticker",
+      "file": "stickers/asset-060.png",
+      "sha256": "3dbf9359471ae544e247b1c3265d435921126776b999eaa2aa89d66385f21270",
+      "bytes": 19354,
+      "w": 91,
+      "h": 153
+    },
+    {
+      "id": "asset-061",
+      "type": "sticker",
+      "file": "stickers/asset-061.png",
+      "sha256": "e061e4a366784fca142cbdbd1f94a7cf841fc48037e9d9320cc6ca68868266bc",
+      "bytes": 6552,
+      "w": 52,
+      "h": 82
+    },
+    {
+      "id": "asset-062",
+      "type": "sticker",
+      "file": "stickers/asset-062.png",
+      "sha256": "2d0985f84965fa5d23af73a38ce5bc1bd6b964bf245a19d5a260e44a932074a5",
+      "bytes": 6653,
+      "w": 52,
+      "h": 83
+    },
+    {
+      "id": "asset-063",
+      "type": "sticker",
+      "file": "stickers/asset-063.png",
+      "sha256": "a24cedf181250de82d1542178ea6aaed8119eb4cd71cbbe24c88d076bf040afd",
+      "bytes": 8862,
+      "w": 87,
+      "h": 64
+    },
+    {
+      "id": "asset-064",
+      "type": "sticker",
+      "file": "stickers/asset-064.png",
+      "sha256": "53c9d0676e1343a2a08648929942b6aba565b08f9446d59abf5c65ca3642685e",
+      "bytes": 28051,
+      "w": 107,
+      "h": 149
+    },
+    {
+      "id": "asset-065",
+      "type": "sticker",
+      "file": "stickers/asset-065.png",
+      "sha256": "cc1cb9cb1d5ab87a02e9f88311592000f3407bcfff8008e7c64e6ae8ae7968c7",
+      "bytes": 45176,
+      "w": 146,
+      "h": 176
+    },
+    {
+      "id": "asset-066",
+      "type": "sticker",
+      "file": "stickers/asset-066.png",
+      "sha256": "3edcc251651732da9cca25feb0ee211ddc0457da6eb211623995994b75aa0b2d",
+      "bytes": 19832,
+      "w": 99,
+      "h": 125
+    },
+    {
+      "id": "asset-067",
+      "type": "sticker",
+      "file": "stickers/asset-067.png",
+      "sha256": "21365931c1c7f9fe93e1b4349495162974a17842ac06f8b92e99a49fea19694f",
+      "bytes": 7849,
+      "w": 69,
+      "h": 82
+    },
+    {
+      "id": "asset-068",
+      "type": "sticker",
+      "file": "stickers/asset-068.png",
+      "sha256": "ab7d613235378f5329536bccf77e8763dedae4cb11bfc23697c701f74fa51c39",
+      "bytes": 12733,
+      "w": 106,
+      "h": 83
+    },
+    {
+      "id": "asset-069",
+      "type": "sticker",
+      "file": "stickers/asset-069.png",
+      "sha256": "db8876c9c3e98bb8fcc2b12a067f93ae9c2e92d27b6df1af911a99fa1e4beba7",
+      "bytes": 6174,
+      "w": 69,
+      "h": 61
+    },
+    {
+      "id": "asset-070",
+      "type": "sticker",
+      "file": "stickers/asset-070.png",
+      "sha256": "b81140ce384ae8d9bca1846ac379cc6dba9ce5dfebb09238f90250879ad73f50",
+      "bytes": 5308,
+      "w": 61,
+      "h": 62
+    },
+    {
+      "id": "asset-071",
+      "type": "sticker",
+      "file": "stickers/asset-071.png",
+      "sha256": "98a37081f443c9e038e9eae425125d6b78648904861c9e036645d3fffd211e6c",
+      "bytes": 12248,
+      "w": 102,
+      "h": 97
+    },
+    {
+      "id": "asset-072",
+      "type": "sticker",
+      "file": "stickers/asset-072.png",
+      "sha256": "5bacb90a3641009ff37a785bb49af205d9f6ccb8db31dc7bb1d7f5340607ddd0",
+      "bytes": 28438,
+      "w": 168,
+      "h": 122
+    },
+    {
+      "id": "asset-073",
+      "type": "sticker",
+      "file": "stickers/asset-073.png",
+      "sha256": "541177b60699a08627465f81968bc88f41a49122dfd1c91fa95d95fd1154d30a",
+      "bytes": 14775,
+      "w": 110,
+      "h": 99
+    },
+    {
+      "id": "asset-074",
+      "type": "sticker",
+      "file": "stickers/asset-074.png",
+      "sha256": "88131d93451ae3db23374af0bd5312b278a9538b76db6400ddb49fcf9dc5401a",
+      "bytes": 6162,
+      "w": 70,
+      "h": 60
+    },
+    {
+      "id": "asset-075",
+      "type": "sticker",
+      "file": "stickers/asset-075.png",
+      "sha256": "ba075c62824e43947f52789ae9edc30c4d8f4e038dbd6e63cda676049a6bcff2",
+      "bytes": 6262,
+      "w": 67,
+      "h": 64
+    },
+    {
+      "id": "asset-076",
+      "type": "sticker",
+      "file": "stickers/asset-076.png",
+      "sha256": "d8d6cc109e24114c04481a3b6583cb015c6cf572574316c9eb57b48a3f0c534a",
+      "bytes": 15834,
+      "w": 87,
+      "h": 116
+    },
+    {
+      "id": "asset-077",
+      "type": "sticker",
+      "file": "stickers/asset-077.png",
+      "sha256": "5c914e279f48c1bb7f1cac407957ec0523e66f00443f63f82ff96653d5704fda",
+      "bytes": 8868,
+      "w": 73,
+      "h": 88
+    },
+    {
+      "id": "asset-078",
+      "type": "sticker",
+      "file": "stickers/asset-078.png",
+      "sha256": "2b6cda9c2bad7b086d2e9b2f47c5980a88ed454fe7b032c2152c8c730ee842ce",
+      "bytes": 5258,
+      "w": 62,
+      "h": 61
+    },
+    {
+      "id": "asset-079",
+      "type": "sticker",
+      "file": "stickers/asset-079.png",
+      "sha256": "7435f9108a35fe17b93d17d75640ecf2896843cbb003e5a21c85fc70021f5b22",
+      "bytes": 32910,
+      "w": 144,
+      "h": 140
+    },
+    {
+      "id": "asset-080",
+      "type": "sticker",
+      "file": "stickers/asset-080.png",
+      "sha256": "4aac2d5f56ef389b4beea5ab5517aed653f374bee0a796161ca1dcef689224dc",
+      "bytes": 11234,
+      "w": 104,
+      "h": 70
+    },
+    {
+      "id": "asset-081",
+      "type": "sticker",
+      "file": "stickers/asset-081.png",
+      "sha256": "5ae541d885a4dc9df331959cf4c908c0aec6afeab529c03e703278723355a331",
+      "bytes": 7474,
+      "w": 59,
+      "h": 92
+    },
+    {
+      "id": "asset-082",
+      "type": "sticker",
+      "file": "stickers/asset-082.png",
+      "sha256": "285ff1ed650cfb51b982a4e25d5ccc4ae48d55e2aea995e94529a143b79a69a3",
+      "bytes": 22669,
+      "w": 123,
+      "h": 119
+    },
+    {
+      "id": "asset-083",
+      "type": "sticker",
+      "file": "stickers/asset-083.png",
+      "sha256": "f8bd89af79156f12df65161ffacab6a132a0975d8fe148602a1ace6cdec86e84",
+      "bytes": 43329,
+      "w": 125,
+      "h": 226
+    },
+    {
+      "id": "asset-084",
+      "type": "sticker",
+      "file": "stickers/asset-084.png",
+      "sha256": "a5c3f6beabebae2b2aadb593cf9186bc2f9855251abb4906013151f363ba106d",
+      "bytes": 14458,
+      "w": 116,
+      "h": 78
+    },
+    {
+      "id": "asset-085",
+      "type": "sticker",
+      "file": "stickers/asset-085.png",
+      "sha256": "9a7efe9185dad588e93b0cae66def0a9e0cf00b4f6ed8adb7d7c3a875f747259",
+      "bytes": 27812,
+      "w": 117,
+      "h": 148
+    },
+    {
+      "id": "asset-086",
+      "type": "sticker",
+      "file": "stickers/asset-086.png",
+      "sha256": "e1269024449d2b077c153ce2e4466522fc719df0289ded725225baa22b4ff70f",
+      "bytes": 38714,
+      "w": 174,
+      "h": 143
+    },
+    {
+      "id": "asset-087",
+      "type": "sticker",
+      "file": "stickers/asset-087.png",
+      "sha256": "6c1f4e7a760b6a3fb48691bbbad6203d69726932693c9bfc127741c404c14e2d",
+      "bytes": 3658,
+      "w": 52,
+      "h": 52
+    },
+    {
+      "id": "asset-088",
+      "type": "sticker",
+      "file": "stickers/asset-088.png",
+      "sha256": "df8f02328f48eda06f1b7765a3e04fdc8de0b6d27558a2fccdb384718cf04545",
+      "bytes": 13567,
+      "w": 89,
+      "h": 109
+    },
+    {
+      "id": "asset-089",
+      "type": "sticker",
+      "file": "stickers/asset-089.png",
+      "sha256": "0736628d65e06066fed8bd91573d4979266093931a91127cfe948a7f892e8985",
+      "bytes": 3329,
+      "w": 49,
+      "h": 49
+    },
+    {
+      "id": "asset-090",
+      "type": "sticker",
+      "file": "stickers/asset-090.png",
+      "sha256": "7fbabefabba5358e520258a13aceff3b345ea0b15071bc6de2766bdac4186496",
+      "bytes": 15305,
+      "w": 119,
+      "h": 83
+    },
+    {
+      "id": "asset-091",
+      "type": "sticker",
+      "file": "stickers/asset-091.png",
+      "sha256": "dfca46ba0323af1de9d1e7018ea5a7c7d8815757d6a5e1b3436dc04800334a80",
+      "bytes": 17483,
+      "w": 67,
+      "h": 178
+    },
+    {
+      "id": "asset-092",
+      "type": "sticker",
+      "file": "stickers/asset-092.png",
+      "sha256": "1928115145143f7cc23cb5ff9888c6bfcdbcc141cd5471d845089a2958547d2b",
+      "bytes": 17134,
+      "w": 67,
+      "h": 178
+    },
+    {
+      "id": "asset-093",
+      "type": "sticker",
+      "file": "stickers/asset-093.png",
+      "sha256": "a2a0441b1e779a5c8d32e8fb8cf872468cfc16189e9d2824646e3af256c8b730",
+      "bytes": 15840,
+      "w": 67,
+      "h": 149
+    },
+    {
+      "id": "asset-094",
+      "type": "sticker",
+      "file": "stickers/asset-094.png",
+      "sha256": "c92d31aae192b3488a86d44f61568c57204219a303dbbf3e7fb881e3d70ede81",
+      "bytes": 18041,
+      "w": 71,
+      "h": 158
+    },
+    {
+      "id": "asset-095",
+      "type": "sticker",
+      "file": "stickers/asset-095.png",
+      "sha256": "c51cad28771ca3dbb218cec495ec0b261ccf13d49fab55709aae945b06752e06",
+      "bytes": 17020,
+      "w": 66,
+      "h": 156
+    },
+    {
+      "id": "asset-096",
+      "type": "sticker",
+      "file": "stickers/asset-096.png",
+      "sha256": "ddae3b571442653f2b3cb1cad6eedfcb17b42c8aaa8435a5b4da7c338e23530d",
+      "bytes": 16632,
+      "w": 67,
+      "h": 151
+    },
+    {
+      "id": "asset-097",
+      "type": "sticker",
+      "file": "stickers/asset-097.png",
+      "sha256": "0781b310d8466f5c9831e4de510947bf5949f6f65226c19db32a9f0d7c0dd9cf",
+      "bytes": 37368,
+      "w": 182,
+      "h": 156
+    },
+    {
+      "id": "asset-098",
+      "type": "sticker",
+      "file": "stickers/asset-098.png",
+      "sha256": "844401655ca8d8b65e706b9d23e7688d11db19dda99c0e0167cd5d4ebffb6356",
+      "bytes": 19570,
+      "w": 77,
+      "h": 148
+    },
+    {
+      "id": "asset-099",
+      "type": "sticker",
+      "file": "stickers/asset-099.png",
+      "sha256": "ce9d478af38dd412b3d3a9af1290fce3f8cb238ef77f8ef3a98793644ff702d6",
+      "bytes": 19537,
+      "w": 81,
+      "h": 148
+    },
+    {
+      "id": "asset-100",
+      "type": "sticker",
+      "file": "stickers/asset-100.png",
+      "sha256": "e041cc14501d269031b4fd332d94bac5f8323d0bcbe65867260777e3a86c981a",
+      "bytes": 25697,
+      "w": 106,
+      "h": 137
+    },
+    {
+      "id": "asset-101",
+      "type": "sticker",
+      "file": "stickers/asset-101.png",
+      "sha256": "2857cbe3bc224b86e52f5f73c48163fb2747b23c89e3f0e2c8d013615af43c24",
+      "bytes": 22112,
+      "w": 124,
+      "h": 127
+    },
+    {
+      "id": "asset-102",
+      "type": "sticker",
+      "file": "stickers/asset-102.png",
+      "sha256": "77898924853b83777ecd2a48f5098aa6d608d778195462698598f6bb3847141e",
+      "bytes": 25786,
+      "w": 125,
+      "h": 124
+    },
+    {
+      "id": "asset-103",
+      "type": "sticker",
+      "file": "stickers/asset-103.png",
+      "sha256": "e7cede602eb70f58acadf12db3fd8fbc41fe8c10ee1903c059288b168c196dcf",
+      "bytes": 11513,
+      "w": 76,
+      "h": 97
+    },
+    {
+      "id": "asset-104",
+      "type": "sticker",
+      "file": "stickers/asset-104.png",
+      "sha256": "b473a6b0655dacf737b4386deb2229ae076f16f2755ad2c095105ddbb7453660",
+      "bytes": 27368,
+      "w": 162,
+      "h": 102
+    },
+    {
+      "id": "notebook-01",
+      "type": "board",
+      "file": "boards/notebook-01.png",
+      "sha256": "ab3a021be7686ec786f537dd1dfe656191d9209e8956a4e492eeeed39cbb6c92",
+      "bytes": 152468,
+      "w": 425,
+      "h": 249
+    },
+    {
+      "id": "notebook-02",
+      "type": "board",
+      "file": "boards/notebook-02.png",
+      "sha256": "aec81753a8f95689432c8ea49a695050963af33209ae94ba81f53f9d523be535",
+      "bytes": 156252,
+      "w": 410,
+      "h": 247
+    },
+    {
+      "id": "notebook-03",
+      "type": "board",
+      "file": "boards/notebook-03.png",
+      "sha256": "c26b5fd52410e46aaa0bb43893bc412464326546321af8ed78184eda20441395",
+      "bytes": 157935,
+      "w": 409,
+      "h": 252
+    },
+    {
+      "id": "notebook-04",
+      "type": "board",
+      "file": "boards/notebook-04.png",
+      "sha256": "7bd3c54f31c4a749c4731823a0ce0d0352f69c245c874dca2c28c6ca9be6127e",
+      "bytes": 131674,
+      "w": 375,
+      "h": 233
+    },
+    {
+      "id": "notebook-05",
+      "type": "board",
+      "file": "boards/notebook-05.png",
+      "sha256": "1265beaac84358f87adb8aa986415b72a5bfce7e47679e3bbacdeb46f9a90659",
+      "bytes": 96898,
+      "w": 276,
+      "h": 226
+    },
+    {
+      "id": "notebook-06",
+      "type": "board",
+      "file": "boards/notebook-06.png",
+      "sha256": "df4e132b61663d16343436e1d51b6847023f0eef7512c29cbb204e5ba9806ed9",
+      "bytes": 123200,
+      "w": 375,
+      "h": 227
+    },
+    {
+      "id": "notebook-07",
+      "type": "board",
+      "file": "boards/notebook-07.png",
+      "sha256": "d0157f80b74414e5ecfaec7a80b4154d3b38cddfdef65942231c59810a9941b9",
+      "bytes": 119481,
+      "w": 359,
+      "h": 219
+    },
+    {
+      "id": "notebook-08",
+      "type": "board",
+      "file": "boards/notebook-08.png",
+      "sha256": "f96c516291a073fd7c0210fc96c609285b97bb0e2ff2a0299fc3050d49a1ab71",
+      "bytes": 107528,
+      "w": 310,
+      "h": 218
+    },
+    {
+      "id": "notebook-09",
+      "type": "board",
+      "file": "boards/notebook-09.png",
+      "sha256": "7b6915726412bcdc254d500717ba509519fb2ee1e2ba7106b911304986e48196",
+      "bytes": 80077,
+      "w": 249,
+      "h": 200
+    },
+    {
+      "id": "notebook-10",
+      "type": "board",
+      "file": "boards/notebook-10.png",
+      "sha256": "12018c5c45ae061f88eac2238360e767d4e5e781bb397c5605f51d1089b023a6",
+      "bytes": 108845,
+      "w": 338,
+      "h": 228
+    },
+    {
+      "id": "notebook-11",
+      "type": "board",
+      "file": "boards/notebook-11.png",
+      "sha256": "acc715243eccd14e06d5e88c898d896d233ec685ca7769a42aa29a078fb871fa",
+      "bytes": 98392,
+      "w": 276,
+      "h": 212
+    },
+    {
+      "id": "notebook-12",
+      "type": "board",
+      "file": "boards/notebook-12.png",
+      "sha256": "a7adc24dd6caab769b4811b6c5cc75e181d5fc4f2bb4c8d28e97d96f886f915f",
+      "bytes": 91379,
+      "w": 295,
+      "h": 190
+    },
+    {
+      "id": "notebook-13",
+      "type": "board",
+      "file": "boards/notebook-13.png",
+      "sha256": "5ec30ac28eb79705a4200d01a581ee7fc0230c9f2776563d1f9e4405d5806dcd",
+      "bytes": 128991,
+      "w": 377,
+      "h": 208
+    },
+    {
+      "id": "notebook-14",
+      "type": "board",
+      "file": "boards/notebook-14.png",
+      "sha256": "33c112e05a6cdd0c0f523006bf5fced5dd8adbdad6c0205b5cfa004af814eeed",
+      "bytes": 90440,
+      "w": 300,
+      "h": 198
+    },
+    {
+      "id": "notebook-15",
+      "type": "board",
+      "file": "boards/notebook-15.png",
+      "sha256": "9a309bd499341c7ba639093f59229ed37beeac5f7bcc3b650caef38c6ec45a23",
+      "bytes": 158750,
+      "w": 444,
+      "h": 239
+    },
+    {
+      "id": "notebook-16",
+      "type": "board",
+      "file": "boards/notebook-16.png",
+      "sha256": "78b7f47eaeacabcc5918a0495d1db28713fad19598cfe448e6fcf885a2f080c1",
+      "bytes": 119618,
+      "w": 349,
+      "h": 226
+    },
+    {
+      "id": "notebook-17",
+      "type": "board",
+      "file": "boards/notebook-17.png",
+      "sha256": "84cc02b9957f08367cfd7b3127f8832e5828c5466e37c79c31216544816df863",
+      "bytes": 92466,
+      "w": 238,
+      "h": 204
+    },
+    {
+      "id": "notebook-18",
+      "type": "board",
+      "file": "boards/notebook-18.png",
+      "sha256": "fe265f1f185d2d3534469f5c9af0fb3262bc7e79dd2217222ffe5553f7554a08",
+      "bytes": 109151,
+      "w": 350,
+      "h": 199
+    },
+    {
+      "id": "notebook-19",
+      "type": "board",
+      "file": "boards/notebook-19.png",
+      "sha256": "20a2ccdfa358331eb523aa1832f2ad427875c70c0d47eb2ade2999da9296446d",
+      "bytes": 60257,
+      "w": 216,
+      "h": 174
+    },
+    {
+      "id": "desk-day",
+      "type": "background",
+      "file": "backgrounds/desk-day.png",
+      "sha256": "ce3e68fc8d402d18101c2098cbfb8aeabd936a05b7eab57f9ea3a5fa6a128e3f",
+      "bytes": 2858753,
+      "w": 1672,
+      "h": 941
+    },
+    {
+      "id": "desk-night",
+      "type": "background",
+      "file": "backgrounds/desk-night.png",
+      "sha256": "bea6d84b80f018cb8cc6b8ac32118ce00fd287207df4d5cf32d8d1c8b6aea826",
+      "bytes": 2324329,
+      "w": 1672,
+      "h": 941
+    },
+    {
+      "id": "somewhere-in-the-woods",
+      "type": "bgm",
+      "file": "bgm/somewhere-in-the-woods.mp3",
+      "sha256": "ebabfd411874abd7e4cab768fce78f6897a91f34d7e470cbc3328257a28fa217",
+      "bytes": 21295756
+    }
+  ]
+}
