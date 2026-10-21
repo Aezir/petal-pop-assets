@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "id": "petalpop-default",
   "name": "花漾默认包",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "author": "hydomo",
   "license": "CC-BY-NC-SA-4.0",
   "description": "",
@@ -13,6 +13,7 @@
   "entries": [
     {
       "id": "asset-001",
+      "name": "兔耳蝴蝶结发箍",
       "type": "sticker",
       "file": "stickers/asset-001.png",
       "sha256": "45a5e2c241bdd92ef243d3f6d703afd89e07f25725dab890a5dcaa988f167648",
@@ -26,6 +27,7 @@
     },
     {
       "id": "asset-002",
+      "name": "星星魔法棒",
       "type": "sticker",
       "file": "stickers/asset-002.png",
       "sha256": "28e8ce49d73bf5dbda0108bd2abf1d9a0e9fc5073ba11737fa2b0040f61e3f34",
@@ -39,6 +41,7 @@
     },
     {
       "id": "asset-003",
+      "name": "兔耳发箍",
       "type": "sticker",
       "file": "stickers/asset-003.png",
       "sha256": "9210b6d92ced6c54b95c63a30ab21e229db6d2bed4b9654f38da576ac206ae6c",
@@ -52,6 +55,7 @@
     },
     {
       "id": "asset-004",
+      "name": "草莓蛋糕",
       "type": "sticker",
       "file": "stickers/asset-004.png",
       "sha256": "112227ccf149bcb0506066075b7f87cc9277bac54f96e4158f10c3e186f91437",
@@ -65,6 +69,7 @@
     },
     {
       "id": "asset-005",
+      "name": "猫耳耳机",
       "type": "sticker",
       "file": "stickers/asset-005.png",
       "sha256": "ef94b4c07fe717d45494acdc7f3f7b214a1eb21f0291bee1ff55a100b775cb23",
@@ -78,6 +83,7 @@
     },
     {
       "id": "asset-006",
+      "name": "粉贝雷帽",
       "type": "sticker",
       "file": "stickers/asset-006.png",
       "sha256": "ba373793f7df17172f78caa25629ef9ffe7721f81bf0f4e60071b79a037360b8",
@@ -91,6 +97,7 @@
     },
     {
       "id": "asset-007",
+      "name": "玫瑰花环",
       "type": "sticker",
       "file": "stickers/asset-007.png",
       "sha256": "ac42e4d1cb89e9b05e182b0811c8224da2f231f4d967fa85da00562d3d0c56d1",
@@ -104,6 +111,7 @@
     },
     {
       "id": "asset-008",
+      "name": "小蝴蝶结",
       "type": "sticker",
       "file": "stickers/asset-008.png",
       "sha256": "05cad6cddb6d4fe9f2f27977e4ad19ac2b8c2735c7d7db38c763d3ae0926fec6",
@@ -117,6 +125,7 @@
     },
     {
       "id": "asset-009",
+      "name": "粉飘带",
       "type": "sticker",
       "file": "stickers/asset-009.png",
       "sha256": "d74ac14b1d0d3ca693e95a9e004dcb5b237b69e61aad63683addcddbc22b3909",
@@ -130,6 +139,7 @@
     },
     {
       "id": "asset-010",
+      "name": "红蝴蝶结",
       "type": "sticker",
       "file": "stickers/asset-010.png",
       "sha256": "e199fda0f34dac473945e9891ae020871a89fdee10a49eee53b49c850e94602c",
@@ -143,6 +153,7 @@
     },
     {
       "id": "asset-011",
+      "name": "红格子洋装",
       "type": "sticker",
       "file": "stickers/asset-011.png",
       "sha256": "dc2b2bc121273166fde823c39445f44405041e4187cc4f1ecb295942070a20a5",
@@ -156,6 +167,7 @@
     },
     {
       "id": "asset-012",
+      "name": "小花发夹",
       "type": "sticker",
       "file": "stickers/asset-012.png",
       "sha256": "543082c1508ae27b6fb1d9bf45e96fe26e3c3eb33b68e8deaf4923009f7535e1",
@@ -169,6 +181,7 @@
     },
     {
       "id": "asset-013",
+      "name": "双蝴蝶结发绳",
       "type": "sticker",
       "file": "stickers/asset-013.png",
       "sha256": "09abde37fa190742a926fe9e2d5352636629578fea018128f455be1b9be0d328",
@@ -182,6 +195,7 @@
     },
     {
       "id": "asset-014",
+      "name": "草莓",
       "type": "sticker",
       "file": "stickers/asset-014.png",
       "sha256": "04f93be289c65178a6d75c522a823ea5fb26177abc868fbd538beb8f34c4b3dc",
@@ -195,6 +209,7 @@
     },
     {
       "id": "asset-015",
+      "name": "橘子汽水",
       "type": "sticker",
       "file": "stickers/asset-015.png",
       "sha256": "d8744e02ae8c3eafc80ea60f58cdca08995efe97419e2b740179db65d207b892",
@@ -208,6 +223,7 @@
     },
     {
       "id": "asset-016",
+      "name": "爱心项链",
       "type": "sticker",
       "file": "stickers/asset-016.png",
       "sha256": "5965c001bd1ca3ecf143d26c810ba4e2ce194372f6ca9e1d5af4d8bfac45b728",
@@ -221,6 +237,7 @@
     },
     {
       "id": "asset-017",
+      "name": "爱心胸针",
       "type": "sticker",
       "file": "stickers/asset-017.png",
       "sha256": "5bd009a59f738dc76b13f518b379001b6bfed99c52ca694e69cae77d7b179f48",
@@ -234,6 +251,7 @@
     },
     {
       "id": "asset-018",
+      "name": "水手连衣裙",
       "type": "sticker",
       "file": "stickers/asset-018.png",
       "sha256": "198f0708345de47edf878d5dd3998de2812b62538790c466a2079e293720dc87",
@@ -247,6 +265,7 @@
     },
     {
       "id": "asset-019",
+      "name": "天使翅膀",
       "type": "sticker",
       "file": "stickers/asset-019.png",
       "sha256": "38b8467216d55bcbf9b664bcd04727931ba7b503fbe83445c913f9db4c4cad87",
@@ -260,6 +279,7 @@
     },
     {
       "id": "asset-020",
+      "name": "黄蓝洋装",
       "type": "sticker",
       "file": "stickers/asset-020.png",
       "sha256": "3b4ae6899521967cf14f3ca33514e10501f28ff0ea990061ec83bb495ffc2034",
@@ -273,6 +293,7 @@
     },
     {
       "id": "asset-021",
+      "name": "花朵草帽",
       "type": "sticker",
       "file": "stickers/asset-021.png",
       "sha256": "9a9db2ffff6182a19b3f67be70790ac3297938a35c62b6d6ba9a904d867aa209",
@@ -286,6 +307,7 @@
     },
     {
       "id": "asset-022",
+      "name": "柠檬饮料",
       "type": "sticker",
       "file": "stickers/asset-022.png",
       "sha256": "423fcc408a6464b8e009647e659cd3dfa44297c63076398839d15adf4a23e6a6",
@@ -299,6 +321,7 @@
     },
     {
       "id": "asset-023",
+      "name": "樱桃串",
       "type": "sticker",
       "file": "stickers/asset-023.png",
       "sha256": "8e2d147e661486c5db53770c42dea8ebb874922f6d5076c3cefadd31db4ba2a5",
@@ -312,6 +335,7 @@
     },
     {
       "id": "asset-024",
+      "name": "蓝白洋装",
       "type": "sticker",
       "file": "stickers/asset-024.png",
       "sha256": "dcabee627102d2467542196380fb6c850640d4787638a9932b432c6e37d2b7b6",
@@ -325,6 +349,7 @@
     },
     {
       "id": "asset-025",
+      "name": "粉羊毛外套裙",
       "type": "sticker",
       "file": "stickers/asset-025.png",
       "sha256": "fdd28c4101292921825b983c2f4a085c85ea7931c0801859da1b1177fc8347c6",
@@ -338,6 +363,7 @@
     },
     {
       "id": "asset-026",
+      "name": "大蝴蝶结",
       "type": "sticker",
       "file": "stickers/asset-026.png",
       "sha256": "568db5e1854a7b598bd5a697795f7ec15dc284aead6135dc11ebab11be37d76b",
@@ -351,6 +377,7 @@
     },
     {
       "id": "asset-027",
+      "name": "小花",
       "type": "sticker",
       "file": "stickers/asset-027.png",
       "sha256": "d17be706dafc440ee49393d72531310f16000bc8cec3a536dd1387294732895a",
@@ -364,6 +391,7 @@
     },
     {
       "id": "asset-028",
+      "name": "白熊玩偶",
       "type": "sticker",
       "file": "stickers/asset-028.png",
       "sha256": "4b0fa833002429ceedc7c8b689b9f8a7c21ef349a3b24134b877e424f3915820",
@@ -377,6 +405,7 @@
     },
     {
       "id": "asset-029",
+      "name": "爱心围裙裙",
       "type": "sticker",
       "file": "stickers/asset-029.png",
       "sha256": "208292237b128e6f1adfbcb7e03a29e0a633e98218069f92d711ad2d68f33a26",
@@ -390,6 +419,7 @@
     },
     {
       "id": "asset-030",
+      "name": "蝴蝶结贝雷帽",
       "type": "sticker",
       "file": "stickers/asset-030.png",
       "sha256": "6b0d472ef33396218ad3bc45667a6e5119783336d0fb9b1be1df864a22553aff",
@@ -403,6 +433,7 @@
     },
     {
       "id": "asset-031",
+      "name": "毛绒耳罩",
       "type": "sticker",
       "file": "stickers/asset-031.png",
       "sha256": "71156f4499568c86f5747a27d78106dea4b33098cb23edbb8cf3d909e96e3ffb",
@@ -416,6 +447,7 @@
     },
     {
       "id": "asset-032",
+      "name": "粉蝴蝶结",
       "type": "sticker",
       "file": "stickers/asset-032.png",
       "sha256": "4057650deea347149d4c80a90a69e0808110efdb53800a851ce2c31e60c5043f",
@@ -429,6 +461,7 @@
     },
     {
       "id": "asset-033",
+      "name": "双蝴蝶结",
       "type": "sticker",
       "file": "stickers/asset-033.png",
       "sha256": "f5f2e3e31e6e6d72f67fa3315fa56118873639eb5453027dfc1fd7dc622f657f",
@@ -442,6 +475,7 @@
     },
     {
       "id": "asset-034",
+      "name": "小花束",
       "type": "sticker",
       "file": "stickers/asset-034.png",
       "sha256": "dddfb9e20c5faab3078658b09ca3cf7a1d4229f35eb5b49f2bb719023208635e",
@@ -455,6 +489,7 @@
     },
     {
       "id": "asset-035",
+      "name": "紫爱心",
       "type": "sticker",
       "file": "stickers/asset-035.png",
       "sha256": "9059902e70814c8fbc798f039fca1e4dcbaeee3fe14970fed6361648eb5b2288",
@@ -468,6 +503,7 @@
     },
     {
       "id": "asset-036",
+      "name": "小皇冠",
       "type": "sticker",
       "file": "stickers/asset-036.png",
       "sha256": "69a722fd0626d0e26bcfc799646be88302fa5dd06d02f5e065a7d3aff7b2cbde",
@@ -481,6 +517,7 @@
     },
     {
       "id": "asset-037",
+      "name": "糖果棒",
       "type": "sticker",
       "file": "stickers/asset-037.png",
       "sha256": "36e4bb095e709530f659cfd8470a923f28a48d75cd15c89f306b6ca56cba2c07",
@@ -494,6 +531,7 @@
     },
     {
       "id": "asset-038",
+      "name": "花朵礼盒",
       "type": "sticker",
       "file": "stickers/asset-038.png",
       "sha256": "5b80b392bfc27e948b2f1240007a1803048ecac153597600e3a4b7581cee4838",
@@ -507,6 +545,7 @@
     },
     {
       "id": "asset-039",
+      "name": "蓝白背带裙",
       "type": "sticker",
       "file": "stickers/asset-039.png",
       "sha256": "1eacb580acc119fb728954ad059822885967b710ea966071ce6238dda6dd8a7c",
@@ -520,6 +559,7 @@
     },
     {
       "id": "asset-040",
+      "name": "桃子",
       "type": "sticker",
       "file": "stickers/asset-040.png",
       "sha256": "9d4ff5f3d6268520e9dea12c499bcbbe6f80dc72c5336da14025804963cb476f",
@@ -533,6 +573,7 @@
     },
     {
       "id": "asset-041",
+      "name": "花环胸花",
       "type": "sticker",
       "file": "stickers/asset-041.png",
       "sha256": "41f6b768315bd52c6e5cdf0534f15bb0c60578feac9c912f38d8530bed2f1546",
@@ -546,6 +587,7 @@
     },
     {
       "id": "asset-042",
+      "name": "小魔法棒",
       "type": "sticker",
       "file": "stickers/asset-042.png",
       "sha256": "df796ec13c073c0dde7a1b757e85001a74bb2eb15aa4188c58b044f187a3bfad",
@@ -559,6 +601,7 @@
     },
     {
       "id": "asset-043",
+      "name": "草莓小点心",
       "type": "sticker",
       "file": "stickers/asset-043.png",
       "sha256": "edabc48ff08162fbcff16d157afaf32aca77d5b553821a441a6b14e32d787364",
@@ -572,6 +615,7 @@
     },
     {
       "id": "asset-044",
+      "name": "大草莓",
       "type": "sticker",
       "file": "stickers/asset-044.png",
       "sha256": "9170b7195893007a54382ce93eb57620a49221edc7eaefaf3ce82e96145d7ebc",
@@ -585,6 +629,7 @@
     },
     {
       "id": "asset-045",
+      "name": "樱桃",
       "type": "sticker",
       "file": "stickers/asset-045.png",
       "sha256": "76a81cacc15fb30eced01d7991f32a9aea1ab939c09bfbbdf4d5916691fd142b",
@@ -598,6 +643,7 @@
     },
     {
       "id": "asset-046",
+      "name": "小樱桃",
       "type": "sticker",
       "file": "stickers/asset-046.png",
       "sha256": "f0f3b0fbdc189ffde28eb46a531cdaa619f88e565f8e09d3f2e7181df74f2e2e",
@@ -611,6 +657,7 @@
     },
     {
       "id": "asset-047",
+      "name": "娃娃素体·紫瞳",
       "type": "sticker",
       "file": "stickers/asset-047.png",
       "sha256": "9aa974e82c9f15b43fd97dfd7f2080c4a49fa68d7fc2ccee18c18bee907345bb",
@@ -624,6 +671,7 @@
     },
     {
       "id": "asset-048",
+      "name": "娃娃素体·棕瞳",
       "type": "sticker",
       "file": "stickers/asset-048.png",
       "sha256": "97255fc751170d698c77d68ee136753c2d248272175cb4823e03f6f7fd583629",
@@ -637,6 +685,7 @@
     },
     {
       "id": "asset-049",
+      "name": "娃娃素体·蓝瞳",
       "type": "sticker",
       "file": "stickers/asset-049.png",
       "sha256": "7873bd4240f976d059245b0736cb1de6fca4b7d1c334120ea98cb459efaae102",
@@ -650,6 +699,7 @@
     },
     {
       "id": "asset-050",
+      "name": "玫瑰",
       "type": "sticker",
       "file": "stickers/asset-050.png",
       "sha256": "4d3ddb3b2844348f4160d3dcc7233eade0fbeade61e68ad8534668df427faa17",
@@ -663,6 +713,7 @@
     },
     {
       "id": "asset-051",
+      "name": "围裙洋装",
       "type": "sticker",
       "file": "stickers/asset-051.png",
       "sha256": "5bf01b8aba02245218817a6375d9a9eb02e7f6e03a4b58da3d09eea524e47e33",
@@ -676,6 +727,7 @@
     },
     {
       "id": "asset-052",
+      "name": "紫色长靴",
       "type": "sticker",
       "file": "stickers/asset-052.png",
       "sha256": "edfa89e9c9e73e08f760d00a8f258d29fc55c1341fecc0a56616478d0281dad8",
@@ -689,6 +741,7 @@
     },
     {
       "id": "asset-053",
+      "name": "紫色系带靴",
       "type": "sticker",
       "file": "stickers/asset-053.png",
       "sha256": "1f236d8cfe7fd3b5f93cc9d3732b76ad4d087747d9e7c9014eb260c4310ea608",
@@ -702,6 +755,7 @@
     },
     {
       "id": "asset-054",
+      "name": "蝴蝶结圆帽",
       "type": "sticker",
       "file": "stickers/asset-054.png",
       "sha256": "380d5aa79276dad79cae12d8588dea4baec2bc3613a8643c187772dfd77c8e04",
@@ -715,6 +769,7 @@
     },
     {
       "id": "asset-055",
+      "name": "蓝紫蝴蝶结",
       "type": "sticker",
       "file": "stickers/asset-055.png",
       "sha256": "df82d9b47005a458256c625fd32574904b316f125596e5349b169dcf2f59c56a",
@@ -728,6 +783,7 @@
     },
     {
       "id": "asset-056",
+      "name": "花朵发带",
       "type": "sticker",
       "file": "stickers/asset-056.png",
       "sha256": "b0d8bff4458eddfeab359531b4e34adb42401d07d80aa01f50c9eef4912ef2a4",
@@ -741,6 +797,7 @@
     },
     {
       "id": "asset-057",
+      "name": "棒棒糖",
       "type": "sticker",
       "file": "stickers/asset-057.png",
       "sha256": "3ce8c7d56938368b553d3630267a1cd85b6b85f3e63417fd8dc04adc6eade01d",
@@ -754,6 +811,7 @@
     },
     {
       "id": "asset-058",
+      "name": "粉蝴蝶结",
       "type": "sticker",
       "file": "stickers/asset-058.png",
       "sha256": "cb17225fc4021d023662f1b8ae79fc3f602d77e44602de471a6aef74dee5145a",
@@ -767,6 +825,7 @@
     },
     {
       "id": "asset-059",
+      "name": "冰淇淋",
       "type": "sticker",
       "file": "stickers/asset-059.png",
       "sha256": "8c64f91f711a2a82d27f988917ba788f1f7f8aa6f3ee0f6f18d479434085bb8a",
@@ -780,6 +839,7 @@
     },
     {
       "id": "asset-060",
+      "name": "爱心挎包",
       "type": "sticker",
       "file": "stickers/asset-060.png",
       "sha256": "3dbf9359471ae544e247b1c3265d435921126776b999eaa2aa89d66385f21270",
@@ -793,6 +853,7 @@
     },
     {
       "id": "asset-061",
+      "name": "橘子汽水",
       "type": "sticker",
       "file": "stickers/asset-061.png",
       "sha256": "e061e4a366784fca142cbdbd1f94a7cf841fc48037e9d9320cc6ca68868266bc",
@@ -806,6 +867,7 @@
     },
     {
       "id": "asset-062",
+      "name": "小瓶饮料",
       "type": "sticker",
       "file": "stickers/asset-062.png",
       "sha256": "2d0985f84965fa5d23af73a38ce5bc1bd6b964bf245a19d5a260e44a932074a5",
@@ -819,6 +881,7 @@
     },
     {
       "id": "asset-063",
+      "name": "蝴蝶结",
       "type": "sticker",
       "file": "stickers/asset-063.png",
       "sha256": "a24cedf181250de82d1542178ea6aaed8119eb4cd71cbbe24c88d076bf040afd",
@@ -832,6 +895,7 @@
     },
     {
       "id": "asset-064",
+      "name": "蝴蝶结高跟靴",
       "type": "sticker",
       "file": "stickers/asset-064.png",
       "sha256": "53c9d0676e1343a2a08648929942b6aba565b08f9446d59abf5c65ca3642685e",
@@ -845,6 +909,7 @@
     },
     {
       "id": "asset-065",
+      "name": "格子裙制服",
       "type": "sticker",
       "file": "stickers/asset-065.png",
       "sha256": "cc1cb9cb1d5ab87a02e9f88311592000f3407bcfff8008e7c64e6ae8ae7968c7",
@@ -858,6 +923,7 @@
     },
     {
       "id": "asset-066",
+      "name": "兔兔头套",
       "type": "sticker",
       "file": "stickers/asset-066.png",
       "sha256": "3edcc251651732da9cca25feb0ee211ddc0457da6eb211623995994b75aa0b2d",
@@ -871,6 +937,7 @@
     },
     {
       "id": "asset-067",
+      "name": "口红",
       "type": "sticker",
       "file": "stickers/asset-067.png",
       "sha256": "21365931c1c7f9fe93e1b4349495162974a17842ac06f8b92e99a49fea19694f",
@@ -884,6 +951,7 @@
     },
     {
       "id": "asset-068",
+      "name": "蝴蝶结发夹",
       "type": "sticker",
       "file": "stickers/asset-068.png",
       "sha256": "ab7d613235378f5329536bccf77e8763dedae4cb11bfc23697c701f74fa51c39",
@@ -897,6 +965,7 @@
     },
     {
       "id": "asset-069",
+      "name": "马卡龙",
       "type": "sticker",
       "file": "stickers/asset-069.png",
       "sha256": "db8876c9c3e98bb8fcc2b12a067f93ae9c2e92d27b6df1af911a99fa1e4beba7",
@@ -910,6 +979,7 @@
     },
     {
       "id": "asset-070",
+      "name": "小花发夹",
       "type": "sticker",
       "file": "stickers/asset-070.png",
       "sha256": "b81140ce384ae8d9bca1846ac379cc6dba9ce5dfebb09238f90250879ad73f50",
@@ -923,6 +993,7 @@
     },
     {
       "id": "asset-071",
+      "name": "口红与爱心",
       "type": "sticker",
       "file": "stickers/asset-071.png",
       "sha256": "98a37081f443c9e038e9eae425125d6b78648904861c9e036645d3fffd211e6c",
@@ -936,6 +1007,7 @@
     },
     {
       "id": "asset-072",
+      "name": "蝴蝶结毛衣",
       "type": "sticker",
       "file": "stickers/asset-072.png",
       "sha256": "5bacb90a3641009ff37a785bb49af205d9f6ccb8db31dc7bb1d7f5340607ddd0",
@@ -949,6 +1021,7 @@
     },
     {
       "id": "asset-073",
+      "name": "粉贵宾犬",
       "type": "sticker",
       "file": "stickers/asset-073.png",
       "sha256": "541177b60699a08627465f81968bc88f41a49122dfd1c91fa95d95fd1154d30a",
@@ -962,6 +1035,7 @@
     },
     {
       "id": "asset-074",
+      "name": "黄蝴蝶结",
       "type": "sticker",
       "file": "stickers/asset-074.png",
       "sha256": "88131d93451ae3db23374af0bd5312b278a9538b76db6400ddb49fcf9dc5401a",
@@ -975,6 +1049,7 @@
     },
     {
       "id": "asset-075",
+      "name": "马卡龙",
       "type": "sticker",
       "file": "stickers/asset-075.png",
       "sha256": "ba075c62824e43947f52789ae9edc30c4d8f4e038dbd6e63cda676049a6bcff2",
@@ -988,6 +1063,7 @@
     },
     {
       "id": "asset-076",
+      "name": "爱心背包",
       "type": "sticker",
       "file": "stickers/asset-076.png",
       "sha256": "d8d6cc109e24114c04481a3b6583cb015c6cf572574316c9eb57b48a3f0c534a",
@@ -1001,6 +1077,7 @@
     },
     {
       "id": "asset-077",
+      "name": "紫蝴蝶结",
       "type": "sticker",
       "file": "stickers/asset-077.png",
       "sha256": "5c914e279f48c1bb7f1cac407957ec0523e66f00443f63f82ff96653d5704fda",
@@ -1014,6 +1091,7 @@
     },
     {
       "id": "asset-078",
+      "name": "粉爱心",
       "type": "sticker",
       "file": "stickers/asset-078.png",
       "sha256": "2b6cda9c2bad7b086d2e9b2f47c5980a88ed454fe7b032c2152c8c730ee842ce",
@@ -1027,6 +1105,7 @@
     },
     {
       "id": "asset-079",
+      "name": "紫色开衫",
       "type": "sticker",
       "file": "stickers/asset-079.png",
       "sha256": "7435f9108a35fe17b93d17d75640ecf2896843cbb003e5a21c85fc70021f5b22",
@@ -1040,6 +1119,7 @@
     },
     {
       "id": "asset-080",
+      "name": "粉发带",
       "type": "sticker",
       "file": "stickers/asset-080.png",
       "sha256": "4aac2d5f56ef389b4beea5ab5517aed653f374bee0a796161ca1dcef689224dc",
@@ -1053,6 +1133,7 @@
     },
     {
       "id": "asset-081",
+      "name": "发夹",
       "type": "sticker",
       "file": "stickers/asset-081.png",
       "sha256": "5ae541d885a4dc9df331959cf4c908c0aec6afeab529c03e703278723355a331",
@@ -1066,6 +1147,7 @@
     },
     {
       "id": "asset-082",
+      "name": "酒红背心裙",
       "type": "sticker",
       "file": "stickers/asset-082.png",
       "sha256": "285ff1ed650cfb51b982a4e25d5ccc4ae48d55e2aea995e94529a143b79a69a3",
@@ -1079,6 +1161,7 @@
     },
     {
       "id": "asset-083",
+      "name": "粉色长筒袜",
       "type": "sticker",
       "file": "stickers/asset-083.png",
       "sha256": "f8bd89af79156f12df65161ffacab6a132a0975d8fe148602a1ace6cdec86e84",
@@ -1092,6 +1175,7 @@
     },
     {
       "id": "asset-084",
+      "name": "爱心蝴蝶结",
       "type": "sticker",
       "file": "stickers/asset-084.png",
       "sha256": "a5c3f6beabebae2b2aadb593cf9186bc2f9855251abb4906013151f363ba106d",
@@ -1105,6 +1189,7 @@
     },
     {
       "id": "asset-085",
+      "name": "兔兔玩偶",
       "type": "sticker",
       "file": "stickers/asset-085.png",
       "sha256": "9a7efe9185dad588e93b0cae66def0a9e0cf00b4f6ed8adb7d7c3a875f747259",
@@ -1118,6 +1203,7 @@
     },
     {
       "id": "asset-086",
+      "name": "蓝色背心裙",
       "type": "sticker",
       "file": "stickers/asset-086.png",
       "sha256": "e1269024449d2b077c153ce2e4466522fc719df0289ded725225baa22b4ff70f",
@@ -1131,6 +1217,7 @@
     },
     {
       "id": "asset-087",
+      "name": "粉爱心",
       "type": "sticker",
       "file": "stickers/asset-087.png",
       "sha256": "6c1f4e7a760b6a3fb48691bbbad6203d69726932693c9bfc127741c404c14e2d",
@@ -1144,6 +1231,7 @@
     },
     {
       "id": "asset-088",
+      "name": "蝴蝶结发绳",
       "type": "sticker",
       "file": "stickers/asset-088.png",
       "sha256": "df8f02328f48eda06f1b7765a3e04fdc8de0b6d27558a2fccdb384718cf04545",
@@ -1157,6 +1245,7 @@
     },
     {
       "id": "asset-089",
+      "name": "小爱心",
       "type": "sticker",
       "file": "stickers/asset-089.png",
       "sha256": "0736628d65e06066fed8bd91573d4979266093931a91127cfe948a7f892e8985",
@@ -1170,6 +1259,7 @@
     },
     {
       "id": "asset-090",
+      "name": "蝴蝶结短裙",
       "type": "sticker",
       "file": "stickers/asset-090.png",
       "sha256": "7fbabefabba5358e520258a13aceff3b345ea0b15071bc6de2766bdac4186496",
@@ -1183,6 +1273,7 @@
     },
     {
       "id": "asset-091",
+      "name": "粉色长靴",
       "type": "sticker",
       "file": "stickers/asset-091.png",
       "sha256": "dfca46ba0323af1de9d1e7018ea5a7c7d8815757d6a5e1b3436dc04800334a80",
@@ -1196,6 +1287,7 @@
     },
     {
       "id": "asset-092",
+      "name": "粉色高跟靴",
       "type": "sticker",
       "file": "stickers/asset-092.png",
       "sha256": "1928115145143f7cc23cb5ff9888c6bfcdbcc141cd5471d845089a2958547d2b",
@@ -1209,6 +1301,7 @@
     },
     {
       "id": "asset-093",
+      "name": "酒红蝴蝶结靴",
       "type": "sticker",
       "file": "stickers/asset-093.png",
       "sha256": "a2a0441b1e779a5c8d32e8fb8cf872468cfc16189e9d2824646e3af256c8b730",
@@ -1222,6 +1315,7 @@
     },
     {
       "id": "asset-094",
+      "name": "酒红短靴",
       "type": "sticker",
       "file": "stickers/asset-094.png",
       "sha256": "c92d31aae192b3488a86d44f61568c57204219a303dbbf3e7fb881e3d70ede81",
@@ -1235,6 +1329,7 @@
     },
     {
       "id": "asset-095",
+      "name": "紫色系带靴",
       "type": "sticker",
       "file": "stickers/asset-095.png",
       "sha256": "c51cad28771ca3dbb218cec495ec0b261ccf13d49fab55709aae945b06752e06",
@@ -1248,6 +1343,7 @@
     },
     {
       "id": "asset-096",
+      "name": "紫色长筒靴",
       "type": "sticker",
       "file": "stickers/asset-096.png",
       "sha256": "ddae3b571442653f2b3cb1cad6eedfcb17b42c8aaa8435a5b4da7c338e23530d",
@@ -1261,6 +1357,7 @@
     },
     {
       "id": "asset-097",
+      "name": "爱心短裤",
       "type": "sticker",
       "file": "stickers/asset-097.png",
       "sha256": "0781b310d8466f5c9831e4de510947bf5949f6f65226c19db32a9f0d7c0dd9cf",
@@ -1274,6 +1371,7 @@
     },
     {
       "id": "asset-098",
+      "name": "蝴蝶结长靴",
       "type": "sticker",
       "file": "stickers/asset-098.png",
       "sha256": "844401655ca8d8b65e706b9d23e7688d11db19dda99c0e0167cd5d4ebffb6356",
@@ -1287,6 +1385,7 @@
     },
     {
       "id": "asset-099",
+      "name": "蝴蝶结长靴",
       "type": "sticker",
       "file": "stickers/asset-099.png",
       "sha256": "ce9d478af38dd412b3d3a9af1290fce3f8cb238ef77f8ef3a98793644ff702d6",
@@ -1300,6 +1399,7 @@
     },
     {
       "id": "asset-100",
+      "name": "蝴蝶结玛丽珍鞋",
       "type": "sticker",
       "file": "stickers/asset-100.png",
       "sha256": "e041cc14501d269031b4fd332d94bac5f8323d0bcbe65867260777e3a86c981a",
@@ -1313,6 +1413,7 @@
     },
     {
       "id": "asset-101",
+      "name": "粉运动鞋",
       "type": "sticker",
       "file": "stickers/asset-101.png",
       "sha256": "2857cbe3bc224b86e52f5f73c48163fb2747b23c89e3f0e2c8d013615af43c24",
@@ -1326,6 +1427,7 @@
     },
     {
       "id": "asset-102",
+      "name": "紫厚底鞋",
       "type": "sticker",
       "file": "stickers/asset-102.png",
       "sha256": "77898924853b83777ecd2a48f5098aa6d608d778195462698598f6bb3847141e",
@@ -1339,6 +1441,7 @@
     },
     {
       "id": "asset-103",
+      "name": "纸杯蛋糕",
       "type": "sticker",
       "file": "stickers/asset-103.png",
       "sha256": "e7cede602eb70f58acadf12db3fd8fbc41fe8c10ee1903c059288b168c196dcf",
@@ -1352,6 +1455,7 @@
     },
     {
       "id": "asset-104",
+      "name": "蓝白运动鞋",
       "type": "sticker",
       "file": "stickers/asset-104.png",
       "sha256": "b473a6b0655dacf737b4386deb2229ae076f16f2755ad2c095105ddbb7453660",
@@ -1558,6 +1662,382 @@
       "file": "bgm/somewhere-in-the-woods.mp3",
       "sha256": "ebabfd411874abd7e4cab768fce78f6897a91f34d7e470cbc3328257a28fa217",
       "bytes": 21295756
+    },
+    {
+      "id": "asset-105",
+      "name": "栗发少女模特",
+      "type": "sticker",
+      "file": "stickers/asset-105.png",
+      "sha256": "b707ddd7e59a7e5aafba55dd7b51290e47c97bc2913b3a5cf7e769752a881ccf",
+      "bytes": 112436,
+      "w": 153,
+      "h": 298,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "模特"
+      ]
+    },
+    {
+      "id": "asset-106",
+      "name": "暖肤少女模特",
+      "type": "sticker",
+      "file": "stickers/asset-106.png",
+      "sha256": "50f404fcd1b0e819bdda4325e041cca3d1555518e9c71174b379108b9a3e722e",
+      "bytes": 112888,
+      "w": 153,
+      "h": 298,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "模特"
+      ]
+    },
+    {
+      "id": "asset-107",
+      "name": "玫瑰公主裙",
+      "type": "sticker",
+      "file": "stickers/asset-107.png",
+      "sha256": "4e16329b7eac7fc91382e5a127ad7b8e26a4f57254d3f60eabe909eaa828d584",
+      "bytes": 61541,
+      "w": 174,
+      "h": 169,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "衣裙"
+      ]
+    },
+    {
+      "id": "asset-108",
+      "name": "珍珠蕾丝裙",
+      "type": "sticker",
+      "file": "stickers/asset-108.png",
+      "sha256": "3dfeb977a537de0432ec9c1d46ad0f4647e79c3d3cd82cefba79462bb8e78466",
+      "bytes": 50862,
+      "w": 144,
+      "h": 165,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "衣裙"
+      ]
+    },
+    {
+      "id": "asset-109",
+      "name": "薰衣草礼裙",
+      "type": "sticker",
+      "file": "stickers/asset-109.png",
+      "sha256": "c0d098b3f9c43a84a1e6305871a80c0c803f410fc542cb81c2fda84c1d3c0b0f",
+      "bytes": 63234,
+      "w": 159,
+      "h": 165,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "衣裙"
+      ]
+    },
+    {
+      "id": "asset-110",
+      "name": "薄荷花园裙",
+      "type": "sticker",
+      "file": "stickers/asset-110.png",
+      "sha256": "037b578d7f23310e94c41c92b3f6f8c20da4165c743648a6a8a95934f1b037cd",
+      "bytes": 62063,
+      "w": 164,
+      "h": 166,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "衣裙"
+      ]
+    },
+    {
+      "id": "asset-111",
+      "name": "草莓背带裙",
+      "type": "sticker",
+      "file": "stickers/asset-111.png",
+      "sha256": "5c9406bda67abac6c1ada06b26d657580cd114f221052d190db2d492496e8511",
+      "bytes": 47818,
+      "w": 143,
+      "h": 148,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "衣裙"
+      ]
+    },
+    {
+      "id": "asset-112",
+      "name": "绯红层叠裙",
+      "type": "sticker",
+      "file": "stickers/asset-112.png",
+      "sha256": "050d7568bff9f06db64701c05137777265328c6e1954d3090ed9eeb99b496913",
+      "bytes": 55113,
+      "w": 159,
+      "h": 148,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "衣裙"
+      ]
+    },
+    {
+      "id": "asset-113",
+      "name": "奶油泡袖衬衫",
+      "type": "sticker",
+      "file": "stickers/asset-113.png",
+      "sha256": "c6932831db3510fd0a6d0ef59b49c1a0f0e37b8b2dbbdb6ccbdc751a2c52837b",
+      "bytes": 21689,
+      "w": 113,
+      "h": 81,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "衣裙"
+      ]
+    },
+    {
+      "id": "asset-114",
+      "name": "樱粉蝴蝶结开衫",
+      "type": "sticker",
+      "file": "stickers/asset-114.png",
+      "sha256": "7ba7713ad4ca521318edf6598e8bc94d5e3700c4e01643598011beac90556262",
+      "bytes": 30847,
+      "w": 132,
+      "h": 95,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "衣裙"
+      ]
+    },
+    {
+      "id": "asset-115",
+      "name": "玫红百褶裙",
+      "type": "sticker",
+      "file": "stickers/asset-115.png",
+      "sha256": "03fd1a19efd0be52571a4ae45fc0c63f3e37733ee5d4ab6829bd0c91a6a18ae1",
+      "bytes": 25493,
+      "w": 124,
+      "h": 87,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "衣裙"
+      ]
+    },
+    {
+      "id": "asset-116",
+      "name": "紫丁香蛋糕裙",
+      "type": "sticker",
+      "file": "stickers/asset-116.png",
+      "sha256": "899cd743700af4e0e406f93496553c8efedb26177b1aa0cd7b4d444f0e360634",
+      "bytes": 33251,
+      "w": 138,
+      "h": 103,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "衣裙"
+      ]
+    },
+    {
+      "id": "asset-117",
+      "name": "栗色长卷发",
+      "type": "sticker",
+      "file": "stickers/asset-117.png",
+      "sha256": "6247d7bfd70e83348ef7dd62bf4cdfb61ef90cb02e1bc48a1e7c1b163af4ae86",
+      "bytes": 140893,
+      "w": 224,
+      "h": 235,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "发型"
+      ]
+    },
+    {
+      "id": "asset-118",
+      "name": "金色双麻花辫",
+      "type": "sticker",
+      "file": "stickers/asset-118.png",
+      "sha256": "7b77804f0d72e6da6e12f5355ed6e06bb921b5f215ae2b008d6c5c30b9e5d12b",
+      "bytes": 126985,
+      "w": 197,
+      "h": 234,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "发型"
+      ]
+    },
+    {
+      "id": "asset-119",
+      "name": "银紫短发",
+      "type": "sticker",
+      "file": "stickers/asset-119.png",
+      "sha256": "d30218c50463a7d2d1ace4b467e709582c1a647819940cd4f4e9e9b46b0365b2",
+      "bytes": 102481,
+      "w": 210,
+      "h": 175,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "发型"
+      ]
+    },
+    {
+      "id": "asset-120",
+      "name": "蔷薇双丸子头",
+      "type": "sticker",
+      "file": "stickers/asset-120.png",
+      "sha256": "17989d7b574368c6de52cf0b193a3a31472983fcf47a02f9bacbcfbd03d624cf",
+      "bytes": 111461,
+      "w": 213,
+      "h": 187,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "发型"
+      ]
+    },
+    {
+      "id": "asset-121",
+      "name": "爱心玛丽珍鞋",
+      "type": "sticker",
+      "file": "stickers/asset-121.png",
+      "sha256": "54140792b6c24516ce4c3c4bf0197b14a5d1232e3e02ce554bd3cd81dc5b916c",
+      "bytes": 8749,
+      "w": 65,
+      "h": 48,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "饰品"
+      ]
+    },
+    {
+      "id": "asset-122",
+      "name": "奶油蝴蝶结短靴",
+      "type": "sticker",
+      "file": "stickers/asset-122.png",
+      "sha256": "89cbb9274562d28372aa7b053b2c76f4304ef49be1a7a00e719a8f942de056c0",
+      "bytes": 11928,
+      "w": 76,
+      "h": 62,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "饰品"
+      ]
+    },
+    {
+      "id": "asset-123",
+      "name": "珍珠爱心王冠",
+      "type": "sticker",
+      "file": "stickers/asset-123.png",
+      "sha256": "6c90cfc0b83b25b51adcf537f5eb5d4b5c2815fcca03b9842f9a4abe5cc85031",
+      "bytes": 11528,
+      "w": 104,
+      "h": 60,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "饰品"
+      ]
+    },
+    {
+      "id": "asset-124",
+      "name": "缎带大蝴蝶结",
+      "type": "sticker",
+      "file": "stickers/asset-124.png",
+      "sha256": "bdb446dab470ce3da574c3442917bf47d2a86317f0aaf2c59f97cb438e5507a4",
+      "bytes": 10465,
+      "w": 73,
+      "h": 63,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "饰品"
+      ]
+    },
+    {
+      "id": "asset-125",
+      "name": "玫瑰蕾丝软帽",
+      "type": "sticker",
+      "file": "stickers/asset-125.png",
+      "sha256": "bf4813d6709f99a550135bc61a5d9f1dfcbe81d92d0e33d74b10be1c9f9f6191",
+      "bytes": 28572,
+      "w": 111,
+      "h": 116,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "饰品"
+      ]
+    },
+    {
+      "id": "asset-126",
+      "name": "爱心珍珠手袋",
+      "type": "sticker",
+      "file": "stickers/asset-126.png",
+      "sha256": "1211af9afa665062a5df730325f0b42a27cbcd6ddd8b3c9b08c29399a62a7d22",
+      "bytes": 15382,
+      "w": 80,
+      "h": 82,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "饰品"
+      ]
+    },
+    {
+      "id": "asset-127",
+      "name": "公主星心魔杖",
+      "type": "sticker",
+      "file": "stickers/asset-127.png",
+      "sha256": "58e788a3d6a9e2f9c389bededc6ea4637841673ed4de21cdbd47c692cce56777",
+      "bytes": 16774,
+      "w": 66,
+      "h": 134,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "饰品"
+      ]
+    },
+    {
+      "id": "asset-128",
+      "name": "玫瑰珍珠项链",
+      "type": "sticker",
+      "file": "stickers/asset-128.png",
+      "sha256": "5c4c239e5a30b2c8f70ffc8961d4f1ca422a933934f6fdc9be007a71801ba6ee",
+      "bytes": 5412,
+      "w": 55,
+      "h": 60,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "饰品"
+      ]
+    },
+    {
+      "id": "princess-paper",
+      "name": "玫瑰珍珠公主纸",
+      "type": "board",
+      "file": "boards/princess-paper.png",
+      "sha256": "6efdac2b5779a36fcba8149ea7b9180ac1a26227c406f6670b74146e926a5c84",
+      "bytes": 1773120,
+      "w": 1536,
+      "h": 1024,
+      "tags": [
+        "粉色公主",
+        "像素",
+        "纸张"
+      ]
     }
-  ]
+  ],
+  "scale": 0.5
 }
